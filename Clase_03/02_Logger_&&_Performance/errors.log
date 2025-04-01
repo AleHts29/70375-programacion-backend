@@ -1,0 +1,11 @@
+{"level":"warn","message":"GET en /api/user/faker - at 3/31/2025 - 10:22:30 PM"}
+{"level":"warn","message":"GET en /api/user/test - at 3/31/2025 - 10:22:53 PM"}
+{"level":"warn","message":"GET en /favicon.ico - at 3/31/2025 - 10:22:54 PM"}
+{"level":"warn","message":"GET en /api/user/test - at 3/31/2025 - 10:24:24 PM"}
+{"level":"error","message":"GET en /api/user/test - at 3/31/2025 - 10:24:24 PM"}
+{"level":"warn","message":"GET en /logger - at 3/31/2025 - 10:25:26 PM"}
+{"level":"error","message":"GET en /logger - at 3/31/2025 - 10:25:26 PM"}
+{"level":"warn","message":"Prueba de log level warn --> en Endpoint"}
+warning: Prueba de log level warning!
+warning: Prueba de log level warning!
+warning: Prueba de log level warning --> en Endpoint
